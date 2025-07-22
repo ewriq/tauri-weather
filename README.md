@@ -1,11 +1,11 @@
-# 👋 Hava durumu uygulaması
+# 👋 Weather App
 
-Bir hava durumu uygulaması uygulama tarafı için tauri frontend tarafı için svelte ve tailwind uı backend için golang kullanıldı.
+Tauri was used for the application side, Svelte and Tailwind UI for the frontend, and Golang for the backend of a weather application.
 
+### 📥 Installation
 
-### 📥 Kurulum
+Type the following code into your terminal:
 
-Terminale şu kodu yazın : 
 ```bash
 cd tauri-app && npm install
 ```
@@ -14,22 +14,22 @@ cd tauri-app && npm install
 cd api && go get github.com/gofiber/fiber/v2
 ```
 
+### 🔓 Running
 
-### 🔓 Çalıştırma 
+**🎏 For the Application**
 
-**🎏 Uygulama için**
 ```bash
 cd tauri-app && npm run tauri dev
- ```
+```
 
+**📚 For the Backend**
 
-**📚 Backend için**
 ```bash
 cd api && go run .
 ```
 
-Çalıştırdıktan sonra uygulamaya gidin 💚
+After running, go to the application 💚
 
-### 🗨️ Discord Hesabım
+### 🗨️ My Discord Account
 
 [![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
